@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringQuartz
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: iSentric007
+Implementation-Vendor-Id: com.isentric.quartz
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringQuartz
+Created-By: Maven Integration for Eclipse
+
